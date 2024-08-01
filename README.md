@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/574698b1-9436-4b24-9ab5-afca31beed03)
 # Pig Game
 
 Welcome to the **Pig Game** repository! This project is a two-player dice game built with HTML, CSS, and JavaScript.
